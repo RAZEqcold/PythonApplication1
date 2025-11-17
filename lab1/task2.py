@@ -1,6 +1,6 @@
 s = input()
-ss = s.replace("a", "")
-s2 = ss.replace("u", "")
+s1 = s.replace("a", "")
+s2 = s1.replace("u", "")
 s3 = s2.replace("i", "")
 s4 = s3.replace("o", "")
 s5 = s4.replace("e", "")
